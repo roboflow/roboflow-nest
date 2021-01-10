@@ -1,0 +1,10 @@
+{
+    "refreshToken": "YOUR_REFRESH_TOKEN",
+    "apiKey": "YOUR_API_KEY",
+    "clientId": "YOUR_CLIENT_ID",
+    "cameras": {
+        "camera1": "UNIQUE_ID_1",
+        "camera2": "UNIQUE_ID_2",
+        "camera3": "UNIQUE_ID_3"
+    }
+}

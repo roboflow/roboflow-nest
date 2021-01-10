@@ -1,3 +1,7 @@
+nest-config.json
+roboflow-config.json
+collect/images/*.jpg
+
 # Logs
 logs
 *.log

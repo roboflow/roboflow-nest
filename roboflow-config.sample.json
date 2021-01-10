@@ -1,0 +1,5 @@
+{
+    "api-key": "YOUR_ROBOFLOW_KEY",
+    "upload-dataset": "YOUR_DATASET_ID",
+    "model-id": "YOUR_MODEL_ID"
+}
