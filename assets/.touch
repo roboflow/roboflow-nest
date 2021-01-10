@@ -1,0 +1,4 @@
+Allow empty directory to be stored in git repo.
+
+This folder needs to exist because listening to snapshots will crash if it
+doesn't. We clean it to only keep the latest image in infer/server.js

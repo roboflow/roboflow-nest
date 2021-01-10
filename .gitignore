@@ -1,6 +1,7 @@
 nest-config.json
 roboflow-config.json
 collect/images/*.jpg
+assets/*.jpg
 
 # Logs
 logs
